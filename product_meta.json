@@ -1,0 +1,24 @@
+{
+  "number": 89,
+  "product_id": "JLZ-EDU-SK-071",
+  "chinese_name": "工作流程拆解",
+  "english_name": "Workflow Process Decomposer",
+  "repository_name": "edu-workflow-process-decomposer",
+  "product_type": "Skill",
+  "category": "08 校区标准化与多校区管理中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-workflow-process-decomposer-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "流程目标、参与角色、触发事件、输入输出、审批和异常场景",
+  "main_output": "流程分解图文本、步骤、责任人、输入输出、决策点和改进建议",
+  "package_entries": [
+    "edu-workflow-process-decomposer/SKILL.md",
+    "edu-workflow-process-decomposer/references/DOMAIN_GUIDE.md",
+    "edu-workflow-process-decomposer/references/EXAMPLES.md",
+    "edu-workflow-process-decomposer/templates/OUTPUT_TEMPLATE.md"
+  ]
+}

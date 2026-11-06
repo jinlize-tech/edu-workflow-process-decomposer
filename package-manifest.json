@@ -1,0 +1,18 @@
+{
+  "product_id": "JLZ-EDU-SK-071",
+  "repository_name": "edu-workflow-process-decomposer",
+  "product_type": "Skill",
+  "version": "1.0.0",
+  "package_path": "dist/edu-workflow-process-decomposer-v1.0.0.zip",
+  "sha256": "BC8328C49A478D3288D94EBAC734099F53D126BCD045FC28D37A419E1C85EA78",
+  "bytes": 4843,
+  "entries": [
+    "edu-workflow-process-decomposer/SKILL.md",
+    "edu-workflow-process-decomposer/references/DOMAIN_GUIDE.md",
+    "edu-workflow-process-decomposer/references/EXAMPLES.md",
+    "edu-workflow-process-decomposer/templates/OUTPUT_TEMPLATE.md"
+  ],
+  "built_at": "2026-11-06T22:46:02.6113539+08:00",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED"
+}
