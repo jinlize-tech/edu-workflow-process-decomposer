@@ -2,17 +2,29 @@
   "product_id": "JLZ-EDU-SK-071",
   "repository_name": "edu-workflow-process-decomposer",
   "product_type": "Skill",
-  "version": "1.0.0",
-  "package_path": "dist/edu-workflow-process-decomposer-v1.0.0.zip",
-  "sha256": "BC8328C49A478D3288D94EBAC734099F53D126BCD045FC28D37A419E1C85EA78",
-  "bytes": 4843,
+  "version": "1.0.1",
+  "package_path": "dist/edu-workflow-process-decomposer-v1.0.1.zip",
+  "sha256": "B995A87EFEE5F1D0810F8074B0D1602188FC6C093CBFED94F02E3CDD2A2407F0",
+  "bytes": 14484,
   "entries": [
     "edu-workflow-process-decomposer/SKILL.md",
     "edu-workflow-process-decomposer/references/DOMAIN_GUIDE.md",
     "edu-workflow-process-decomposer/references/EXAMPLES.md",
-    "edu-workflow-process-decomposer/templates/OUTPUT_TEMPLATE.md"
+    "edu-workflow-process-decomposer/templates/OUTPUT_TEMPLATE.md",
+    "edu-workflow-process-decomposer/README.md",
+    "edu-workflow-process-decomposer/USAGE.md",
+    "edu-workflow-process-decomposer/LICENSE",
+    "edu-workflow-process-decomposer/THIRD_PARTY_NOTICES.md",
+    "edu-workflow-process-decomposer/scripts/validate_input.js"
   ],
-  "built_at": "2026-11-06T22:46:02.6113539+08:00",
-  "status": "PACKAGE_READY",
-  "workbuddy_validation": "NOT_VERIFIED"
+  "license": "Apache-2.0",
+  "license_included": true,
+  "license_sha256": "CFC7749B96F63BD31C3C42B5C471BF756814053E847C10F3EB003417BC523D30",
+  "third_party_notice_included": true,
+  "previous_package_path": "dist/edu-workflow-process-decomposer-v1.0.0.zip",
+  "previous_package_sha256": "BC8328C49A478D3288D94EBAC734099F53D126BCD045FC28D37A419E1C85EA78",
+  "built_at": "2026-11-07T09:20:00.0603814+08:00",
+  "status": "GITHUB_PACKAGE_PRE_RELEASE_READY",
+  "runtime_status": "NOT_RUNTIME_VERIFIED",
+  "workbuddy_validation": "WORKBUDDY_VALIDATION_NOT_IN_SCOPE"
 }
